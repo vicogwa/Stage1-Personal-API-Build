@@ -1,0 +1,13 @@
+{
+  "name": "personal-api",
+  "version": "1.0.0",
+  "description": "This is a minimal API-build for DevOps Stage 1",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
